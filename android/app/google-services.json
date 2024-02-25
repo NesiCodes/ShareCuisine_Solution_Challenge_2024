@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314664751078",
+    "project_id": "iouz-ff-proj",
+    "storage_bucket": "iouz-ff-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314664751078:android:5fc4ca74aac7850ba51027",
+        "android_client_info": {
+          "package_name": "com.mycompany.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnpEmeXzWLaz94q--0EdrJUNqRPQqePyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
